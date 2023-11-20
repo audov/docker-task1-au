@@ -42,6 +42,6 @@ data/
 
 ### Exclusions ###
 !*.gitignore
-!docker/db-api.jar
+!db-api.jar
 !**/src/main/**
 !**/src/test/**
