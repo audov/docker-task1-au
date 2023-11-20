@@ -41,6 +41,7 @@ data/
 *.rar
 
 ### Exclusions ###
+!*.gitignore
 !docker/db-api.jar
 !**/src/main/**
 !**/src/test/**
